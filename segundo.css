@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(6, 128, 128);
+}
+
+h1{
+    color: rgb(2, 2, 65);
+    margin: 40px;
+    font-style: italic;
+    font-size: 45px;
+}
+
+.verdade{
+    list-style-type: none;
+    width: 1000px;
+    margin: 40px;
+    font-size: 23px;
+
+}
+
+.oi{
+    width: 800px;
+    height: 300px;
+    margin: 20px;
+   position: absolute;
+}
+
+.correto{
+    font-size: 23px;
+    width: 1000px;
+    margin: 40px;
+   
+}
